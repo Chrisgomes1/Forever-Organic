@@ -23,7 +23,7 @@ $ cd Forever-Organic
 **4.** Add a reference(remote) to the original repository.
 
 ```bash
-$ git remote add upstream https://github.com/Design-and-Code/Opensource-practice.git
+$ git remote add upstream https://github.com/Chrisgomes1/Forever-Organic.git
 ```
 
 **5.** Check the remotes for this repository.
