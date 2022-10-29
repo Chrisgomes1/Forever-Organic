@@ -17,7 +17,7 @@ $ git clone https://github.com/<your_user_name>/Opensource-practice.git
 **3.** Navigate to the project directory :file_folder: .
 
 ```bash
-$ cd Opensource-practice
+$ cd Forever-Organic
 ```
 
 **4.** Add a reference(remote) to the original repository.
