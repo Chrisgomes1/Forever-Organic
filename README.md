@@ -1,6 +1,31 @@
 # Forever-Organic
 
+**Welcome to the offical docs of Forever Organic a D2C intiative where every farmer can connect and interact with fellow customer from all over the globe!**
 
+
+<p align="left">
+<a href="mailto:rebsfalcao15@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+  <a href="https://twitter.com/rebsfalcao15" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://rebeccaweb3.hashnode.dev/" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/website-c14438?&style=for-the-badge&logo=internet&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/rebecca-elisabeth-falcao/" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/rebs-becca15" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/Github-grey.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/rebsfalcao15/" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<br />
+
+<br>
+<br>
 
 ## Contribution Guidelines 🏗
 
